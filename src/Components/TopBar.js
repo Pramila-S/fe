@@ -20,7 +20,7 @@ function TopBar() {
   return (
     <>
       <Navbar
-        variant="dark"
+        variant="light"
         expand="lg"
         sticky="top"
         style={{ backgroundColor: "rgb(255,69,0)" }}
