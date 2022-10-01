@@ -18,7 +18,7 @@ function HomePage() {
   return (
     <>
       <Container className="mt-4" xs={12} sm={12} md={6}>
-        <h1 className="text-center" style={{color: 'black'}}>Welcome to Pizza Shop</h1>
+        <h1 className="text-center" style={{color: 'black'}}>Welcome to American Pizza Shop</h1>
         {loading ? (
           <Loader />
         ) : error ? (
