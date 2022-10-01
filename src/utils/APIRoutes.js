@@ -1,5 +1,5 @@
 
-export const host = "https://harrypizzaapp.herokuapp.com";
+export const host = "https://backend-webcode.herokuapp.com/";
 
 
 export const getPizzaData = `${host}/api/pizzas/getAllPizzas`;

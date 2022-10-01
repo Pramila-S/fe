@@ -49,7 +49,7 @@ function Register() {
             className="d-flex align-items-center justify-content-center"
           >
             <Form className="signupform">
-              <h1>Create your account</h1>
+              <h1>Create an your account</h1>
               {loading && <Loader />}
              
 
