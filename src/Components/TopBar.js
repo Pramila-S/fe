@@ -30,7 +30,7 @@ function TopBar() {
             <Image src={img} alt="logo" style={{ height: "50px" }} />
           </Navbar.Brand>
           <Navbar.Brand>
-            <h1>Pizza Shop</h1>
+            <h1>American Pizza Shop </h1>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
